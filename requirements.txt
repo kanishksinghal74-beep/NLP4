@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+gradio
+spacy
+nltk
+pandas
+matplotlib
+pydantic
